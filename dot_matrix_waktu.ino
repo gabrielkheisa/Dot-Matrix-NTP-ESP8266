@@ -4,7 +4,7 @@
 
 #include <SPI.h>
 
-#include <NTPClient.h>
+#include "NTPClient.h"
 
 #include <ESP8266WiFi.h>
 
